@@ -1,0 +1,46 @@
+h1 {color: rgb(0, 255, 157);}
+h2 {color: rgb(0, 255, 157);}
+p {color: rgb(110, 197, 255);
+text-align: center;
+font-family: "Times New Roman",Georgia,Serif;
+font-size: x-large;
+font-weight: bold;
+line-height: 700px;
+text-transform: capitalize;
+}
+
+
+h1{text-align: center;
+letter-spacing:10px;
+position: fixed;
+
+right: 100px;
+
+top: 1px}
+h2{text-align: center;
+  position: fixed;
+
+  right: 100px;
+  
+  top: 200px}
+
+
+
+
+
+.down {
+  position: relative;
+  top: 100px;
+ 
+
+
+
+}
+html, body {
+  margin: 0;
+  padding:0;
+  height: 100%
+}
+
+
+

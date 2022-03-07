@@ -1,0 +1,30 @@
+
+
+
+
+div {
+  margin-top: 80px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.question {
+  border: 1px solid linen;
+background-color: rgb(255, 251, 5);
+color: rgb(0, 0, 0);
+width: 50%;
+float: left;
+}
+
+.answer {border: 1px solid ;
+  background-color: rgb(200, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  float: right;
+  width: 90%;
+}
+
+.down {
+  position: relative;
+  top: 10px;
+}

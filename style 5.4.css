@@ -1,0 +1,58 @@
+h1 {color: rgb(0, 255, 157);}
+h2 {color: rgb(0, 255, 157);}
+p {color: rgba(255, 255, 255, 0.52);
+text-align:left;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: xx-large;
+line-height: 500%;
+letter-spacing: 50px;
+text-transform: capitalize;
+}
+
+
+h1{text-align: center;
+letter-spacing:10px;
+position: fixed;
+
+right: 100px;
+
+top: 1px}
+h2{text-align: left;
+  position: fixed;
+
+  right: 100px;
+  
+  top: 200px}
+
+
+  div {
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 15px;
+  }
+
+
+
+.down {
+  position: relative;
+  top: 100px;
+}
+ 
+
+  .question {border: 1px solid linen;
+  background-color: rgba(165, 0, 0, 0.253);
+  color: blanchedalmond;
+  float:left;
+  padding: 20px;
+  margin: 30px;
+  border-style: groove;
+  }
+
+  
+
+
+
+
+
+
+

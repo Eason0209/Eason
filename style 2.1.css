@@ -1,0 +1,33 @@
+em {
+    
+    color: rgb(0, 0, 0);
+}
+
+strong {
+    font-weight: bold;
+}
+
+
+  .highlight {
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+  }
+
+  .question {
+    border: 1px solid linen;
+    background-color: maroon;
+    color: blanchedalmond;
+    float: right;
+  }
+  
+  .answer {
+    border: 1px solid rgb(255, 30, 0);
+    background-color: floralwhite;
+    color: rgb(32, 106, 218);
+  } 
+
+  .down {
+    position: relative;
+    top: 6px;
+    left: 2px
+  }

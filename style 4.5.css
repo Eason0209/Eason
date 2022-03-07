@@ -1,0 +1,29 @@
+h1 {color: rgb(0, 0, 0);
+float: right;}
+h4 {color: rgb(0, 26, 255);
+float: right;}
+p {color: rgb(202, 0, 0);
+text-align: justify;
+font-family: monospace;
+font-size: xx-large;
+font-style: oblique;
+font-weight: bolder;
+line-height: 90px;
+text-transform: capitalize;
+}
+
+
+h1{
+letter-spacing:10px;}
+
+
+
+
+
+
+.down {
+  position: relative;
+  top: 100px;
+}
+
+
